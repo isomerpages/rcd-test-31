@@ -1,4 +1,5 @@
 collections:
   fake-4th-nav:
     output: true
-    order: []
+    order:
+      - created earlier.md
