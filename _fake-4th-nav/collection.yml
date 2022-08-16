@@ -1,0 +1,4 @@
+collections:
+  fake-4th-nav:
+    output: true
+    order: []
